@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="7" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13373" started-at="2023-07-16T13:19:20 IST" finished-at="2023-07-16T13:19:33 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13373" started-at="2023-07-16T13:19:20 IST" finished-at="2023-07-16T13:19:33 IST">
+      <class name="com.org.tests.LeftMenuPageTests">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.org.tests.LeftMenuPageTests@33c7e1bb]" name="openBrowser" is-config="true" duration-ms="2644" started-at="2023-07-16T13:19:28 IST" finished-at="2023-07-16T13:19:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.org.tests.LeftMenuPageTests@33c7e1bb]" name="setUp" is-config="true" duration-ms="110" started-at="2023-07-16T13:19:31 IST" finished-at="2023-07-16T13:19:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateJMeterLink()[pri:0, instance:com.org.tests.LeftMenuPageTests@33c7e1bb]" name="validateJMeterLink" duration-ms="194" started-at="2023-07-16T13:19:31 IST" finished-at="2023-07-16T13:19:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateJMeterLink -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.org.tests.LeftMenuPageTests@33c7e1bb]" name="setUp" is-config="true" duration-ms="97" started-at="2023-07-16T13:19:31 IST" finished-at="2023-07-16T13:19:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateSeleniumLink()[pri:0, instance:com.org.tests.LeftMenuPageTests@33c7e1bb]" name="validateSeleniumLink" duration-ms="205" started-at="2023-07-16T13:19:31 IST" finished-at="2023-07-16T13:19:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSeleniumLink -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.org.tests.LeftMenuPageTests@33c7e1bb]" name="closeBrowser" is-config="true" duration-ms="1284" started-at="2023-07-16T13:19:32 IST" finished-at="2023-07-16T13:19:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.org.tests.LeftMenuPageTests -->
+      <class name="com.org.tests.UserRegistrationTests">
+        <test-method status="PASS" signature="setUpReport()[pri:0, instance:com.org.tests.UserRegistrationTests@7a1ebcd8]" name="setUpReport" is-config="true" duration-ms="154" started-at="2023-07-16T13:19:19 IST" finished-at="2023-07-16T13:19:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpReport -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.org.tests.UserRegistrationTests@7a1ebcd8]" name="openBrowser" is-config="true" duration-ms="6330" started-at="2023-07-16T13:19:20 IST" finished-at="2023-07-16T13:19:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.org.tests.UserRegistrationTests@7a1ebcd8]" name="setUp" is-config="true" duration-ms="197" started-at="2023-07-16T13:19:26 IST" finished-at="2023-07-16T13:19:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateFirstName()[pri:0, instance:com.org.tests.UserRegistrationTests@7a1ebcd8]" name="validateFirstName" duration-ms="635" started-at="2023-07-16T13:19:26 IST" finished-at="2023-07-16T13:19:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFirstName -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.org.tests.UserRegistrationTests@7a1ebcd8]" name="setUp" is-config="true" duration-ms="43" started-at="2023-07-16T13:19:27 IST" finished-at="2023-07-16T13:19:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLastName()[pri:0, instance:com.org.tests.UserRegistrationTests@7a1ebcd8]" name="validateLastName" duration-ms="72" started-at="2023-07-16T13:19:27 IST" finished-at="2023-07-16T13:19:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLastName -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.org.tests.UserRegistrationTests@7a1ebcd8]" name="setUp" is-config="true" duration-ms="49" started-at="2023-07-16T13:19:27 IST" finished-at="2023-07-16T13:19:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateMiddleName()[pri:0, instance:com.org.tests.UserRegistrationTests@7a1ebcd8]" name="validateMiddleName" duration-ms="153" started-at="2023-07-16T13:19:27 IST" finished-at="2023-07-16T13:19:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMiddleName -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.org.tests.UserRegistrationTests@7a1ebcd8]" name="closeBrowser" is-config="true" duration-ms="1270" started-at="2023-07-16T13:19:27 IST" finished-at="2023-07-16T13:19:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="saveReport()[pri:0, instance:com.org.tests.UserRegistrationTests@7a1ebcd8]" name="saveReport" is-config="true" duration-ms="551" started-at="2023-07-16T13:19:33 IST" finished-at="2023-07-16T13:19:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveReport -->
+      </class> <!-- com.org.tests.UserRegistrationTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
